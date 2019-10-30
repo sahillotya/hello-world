@@ -4,3 +4,4 @@ Quick sort
 Selection sort 
 Binary search 
 Linear search 
+Binary search tree
